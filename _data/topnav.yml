@@ -8,6 +8,8 @@ topnav:
 
 #Topnav dropdowns
 topnav_dropdowns:
+- title: Topnav dropdowns
+  folders:
     - title: Notes
       folderitems:
         - title: Microeconomics
